@@ -28,7 +28,7 @@ It detects vehicles, assigns them to lanes, counts them as they pass a predefine
 
 ---
 ## 📹 Demo Output Video
-[Google Drive Link..]()
+[Google Drive Link..](https://drive.google.com/file/d/1fynpoPVtDnJy20W_MWiXLzTf2ElOx50u/view?usp=drive_link)
 
 ## 📹 Demo Video
 By default, the project uses a sample 4K traffic video from YouTube:  
