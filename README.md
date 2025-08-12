@@ -113,7 +113,7 @@ Run `TrafficAnalysis.ipynb` step-by-step.
 
 ---
 ## 📜 License
-This project is open-source under the MIT License.
+This project is open-source.
 
 ---
 ## ✨ Acknowledgments
