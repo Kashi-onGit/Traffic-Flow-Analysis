@@ -27,6 +27,8 @@ It detects vehicles, assigns them to lanes, counts them as they pass a predefine
 - **Customizable lanes & counting line** positions.
 
 ---
+## 📹 Demo Output Video
+[Google Drive Link..](https://drive.google.com/file/d/1fynpoPVtDnJy20W_MWiXLzTf2ElOx50u/view?usp=drive_link)
 
 ## 📹 Demo Video
 By default, the project uses a sample 4K traffic video from YouTube:  
@@ -54,7 +56,7 @@ This will save it as `input-video.mp4` for use in the notebook.
 ```
 
 - **(Optional) Install FFmpeg** – Required for merging audio & video from YouTube downloads.
-  - Windows: Download FFmpeg
+  - Windows:[ Download FFmpeg ](https://www.gyan.dev/ffmpeg/builds/)
   - Linux/macOS:
 ```bash
   sudo apt install ffmpeg
@@ -111,7 +113,7 @@ Run `TrafficAnalysis.ipynb` step-by-step.
 
 ---
 ## 📜 License
-This project is open-source under the MIT License.
+This project is open-source.
 
 ---
 ## ✨ Acknowledgments
